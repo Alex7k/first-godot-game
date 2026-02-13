@@ -19,6 +19,10 @@ config/icon="res://icon.svg"
 
 buses/default_bus_layout="uid://b4tjnby4pikph"
 
+[autoload]
+
+Music="*uid://cekjjpxrly06o"
+
 [input]
 
 jump={
