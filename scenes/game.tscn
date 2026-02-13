@@ -223,10 +223,10 @@ unique_name_in_owner = true
 script = ExtResource("1_gee14")
 
 [node name="ScoreLabel" type="Label" parent="GameManager" unique_id=5725500]
-offset_left = 534.0
-offset_top = -203.0
-offset_right = 634.0
-offset_bottom = -184.0
+offset_left = 538.0
+offset_top = -202.0
+offset_right = 638.0
+offset_bottom = -183.0
 theme_override_colors/font_color = Color(0.099985994, 0.099985994, 0.099985994, 1)
 theme_override_fonts/font = ExtResource("2_0tnpc")
 theme_override_font_sizes/font_size = 8
@@ -331,15 +331,36 @@ position = Vector2(549, 16)
 
 [node name="Labels" type="Node" parent="." unique_id=395457356]
 
-[node name="Label" type="Label" parent="Labels" unique_id=1496950339]
-offset_left = -149.0
-offset_top = 47.0
-offset_right = -34.0
-offset_bottom = 71.0
+[node name="Label5" type="Label" parent="Labels" unique_id=708353538]
+offset_left = -138.0
+offset_top = -49.0
+offset_right = 3.0
+offset_bottom = -14.0
+theme_override_colors/font_color = Color(0.099985994, 0.099985994, 0.099985994, 1)
+theme_override_fonts/font = ExtResource("2_0tnpc")
+theme_override_font_sizes/font_size = 8
+text = "Made by Alex7k following Brackeys' tutorial"
+autowrap_mode = 2
+
+[node name="Label6" type="Label" parent="Labels" unique_id=559475684]
+offset_left = -138.0
+offset_top = -15.0
+offset_right = 155.0
+offset_bottom = -4.0
 theme_override_colors/font_color = Color(0.099985994, 0.099985994, 0.099985994, 1)
 theme_override_fonts/font = ExtResource("7_u5sy4")
 theme_override_font_sizes/font_size = 8
-text = "Space to jump."
+text = "youtu.be/watch?v=LOhfqjmasi0"
+
+[node name="Label7" type="Label" parent="Labels" unique_id=400813116]
+offset_left = 38.0
+offset_top = -105.0
+offset_right = 266.0
+offset_bottom = -94.0
+theme_override_colors/font_color = Color(0.09803922, 0.3137255, 0.7529412, 1)
+theme_override_fonts/font = ExtResource("7_u5sy4")
+theme_override_font_sizes/font_size = 8
+text = "github.com/Alex7k/first-godot-game"
 
 [node name="Label2" type="Label" parent="Labels" unique_id=247240784]
 offset_left = 362.0
@@ -362,10 +383,10 @@ theme_override_font_sizes/font_size = 8
 text = "Almost there..."
 
 [node name="Label4" type="Label" parent="Labels" unique_id=287452224]
-offset_left = 545.0
-offset_top = -214.0
-offset_right = 660.0
-offset_bottom = -201.0
+offset_left = 549.0
+offset_top = -213.0
+offset_right = 664.0
+offset_bottom = -200.0
 theme_override_colors/font_color = Color(0.099985994, 0.099985994, 0.099985994, 1)
 theme_override_fonts/font = ExtResource("7_u5sy4")
 theme_override_font_sizes/font_size = 8
