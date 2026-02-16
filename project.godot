@@ -23,6 +23,12 @@ buses/default_bus_layout="uid://b4tjnby4pikph"
 
 Music="*uid://cekjjpxrly06o"
 
+[display]
+
+window/size/resizable=false
+window/stretch/mode="viewport"
+window/vsync/vsync_mode=0
+
 [input]
 
 jump={
